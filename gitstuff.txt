@@ -1,0 +1,7 @@
+here is the basic stuff for git
+
+
+git init
+
+
+

@@ -1,0 +1,1 @@
+start D:\Charandeep\other_software\anaconda3\python.exe D:\Charandeep\other_software\anaconda3\cwp.py D:\Charandeep\other_software\anaconda3 D:\Charandeep\other_software\anaconda3\python.exe D:\Charandeep\other_software\anaconda3\Scripts\jupyter-notebook-script.py --notebook-dir="D:/Charandeep/other software/other dev/python/jnotebookwork" --no-browser
